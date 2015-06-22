@@ -2,6 +2,7 @@
 2D Space Platformer
 
 Controls:
+
 Arrow Keys - Movement
 
 Spacebar - Jump
